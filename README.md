@@ -16,6 +16,7 @@ Ardından Çalıştırıyoruz
 
 Sunucumuzun ip adresi ve kullandığı portu girdikten sonra Saniyede kabul edilecek bağlantı kısmına:
 Bir ip adresinin saniyede kaç adet bağlantı göndereceğini yazınız.
+
 ![resim](https://github.com/user-attachments/assets/a07931a3-49f9-4c49-b88f-bea8f91d6096)
 
 Ve sunucumuz hazır.
