@@ -1,7 +1,7 @@
 Konsol temelli DDOS korumalı bir sunucu oluşturmanızı sağlar.
 Saniyede sizin istediğinizden fazla bağlantı yollanırsa hedef İP adresini yasaklar.
 LOİC testinden başarıyla geçmiştir.
-(sablon adlı klasördeki index.html web sitenizin ana html i ve ban.html ise ihlal yapan kişinin karşılaşacağı sayfayı temsil eder.)
+(sablon adlı klasördeki index.html web sitenizin ana html ini ve ban.html ise ihlal yapan kişinin karşılaşacağı sayfayı temsil eder.)
 
 Kullanım:
 
